@@ -1,4 +1,5 @@
 # practice-git-2
-#task-branches
-#This line create for check integration process with Slack
-# Don't work notifications
+Второй репозиторий для практики работы с GitHub
+
+- работа с ветками
+- интеграция репозитория со Slack
